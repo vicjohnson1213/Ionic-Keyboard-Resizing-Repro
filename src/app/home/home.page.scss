@@ -1,1 +1,14 @@
+input {
+	padding: 8px;
+	width: 100%;
+}
 
+input + input {
+	margin-top: 16px;
+}
+
+.fixed {
+	position: fixed;
+	left: 10px;
+	bottom: 10px;
+}
